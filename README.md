@@ -422,7 +422,7 @@ Furthermore, as shown in the image above, there were several triangle UFO sighti
 
 The table of UFO sightings can also be filtered based on the country of interest. For example, if a user wishes to see only UFO sightings in Canada, they can type “ca” into the “Enter Country” input box. Doing so returns two UFO sightings.
 
-![filter_canada.png]()
+![filter_canada.png](https://github.com/kcharb7/UFOs/blob/main/static/images/filter_canada.png)
 
 
 ## Summary 
