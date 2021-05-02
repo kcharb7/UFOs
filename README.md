@@ -410,7 +410,7 @@ Finally, I rebuilt the table with the filtered data by passing the “filteredDa
 ## Results
 With the extra filters added, a user is able to filter the data beyond just the date to find UFO sightings in certain cities, states, or countries. The data can additionally be filtered based on the shape of UFO seen. Each filter option can be used alone or in tandem with other filter options, though, input values must be in lower cases. For instance, if a user wanted to know more information on sightings of UFOs that were triangle shaped, they would navigate to “Enter Shape” under the “Filter Search” section towards the bottom of the web page, type “triangle”, and press enter.
 
-![filter_triangle.png](filter_triange.png)
+![filter_triangle.png](https://github.com/kcharb7/UFOs/blob/main/static/images/filter_triangle.png)
 
 If they wished to view triangle UFO sightings in a particular state, they could additionally type the acronym for their desired state, such as “ca” for California, in the “Enter State” bar and press enter. This would further refine the triangle UFO sightings to those seen in California. 
 
